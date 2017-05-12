@@ -12,4 +12,5 @@ hiddenimports = [ 'pyomo.bilevel.plugins'
                 , 'pyomo.repn.plugins'
                 , 'pyomo.scripting.plugins'
                 , 'pyomo.solvers.plugins'
+                , 'pyutilib.workflow' 
                 ]
