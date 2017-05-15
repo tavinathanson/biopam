@@ -24,6 +24,8 @@ def check_package(module_name):
     print "Missing " + module_name + " package!"
     sys.exit(-1)
 
+print packages
+
 check_package("numpy")
 check_package("tables")
 check_package("pyomo")
