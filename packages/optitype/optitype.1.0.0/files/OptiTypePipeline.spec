@@ -24,15 +24,13 @@ def check_package(module_name):
     print "Missing " + module_name + " package!"
     sys.exit(-1)
 
-print packages
-
 check_package("numpy")
 check_package("tables")
 check_package("pyomo")
 check_package("pandas")
 check_package("pysam")
 check_package("matplotlib")
-check_package("pyutilib")
+check_package("PyUtilib")
 
 check_package("six")
 check_package("packaging")
