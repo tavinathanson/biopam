@@ -30,7 +30,6 @@ check_package("pyomo")
 check_package("pandas")
 check_package("pysam")
 check_package("matplotlib")
-check_package("PyUtilib")
 
 check_package("six")
 check_package("packaging")

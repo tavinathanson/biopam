@@ -1,2 +1,0 @@
-hiddenimports = [ 'pyutilib.workflow'
-                ]
